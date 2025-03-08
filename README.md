@@ -1,6 +1,8 @@
 # Amigo Secreto
-
-O **Amigo Secreto** é uma aplicação simples em HTML, CSS e JavaScript para ajudar no sorteio de amigos secretos em um grupo. A aplicação permite que os usuários adicionem nomes de amigos, sorteiem um amigo secreto e visualizem o resultado de maneira interativa.
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/d1450c74-3e7b-43e2-9e35-14566026cd4c" width="400px">
+</div>
+O <strong>Amigo Secreto</strong> é uma aplicação simples em HTML, CSS e JavaScript para ajudar no sorteio de amigos secretos em um grupo. A aplicação permite que os usuários adicionem nomes de amigos, sorteiem um amigo secreto e visualizem o resultado de maneira interativa.
 
 ## Funcionalidades
 
@@ -12,9 +14,17 @@ O **Amigo Secreto** é uma aplicação simples em HTML, CSS e JavaScript para aj
 
 1. **Adicionar Amigos**:
    - Digite o nome de um amigo na caixa de texto e clique no botão "Adicionar" para adicionar o nome à lista de amigos.
+     
+   <div align="center">
+      <img src="https://github.com/user-attachments/assets/d1450c74-3e7b-43e2-9e35-14566026cd4c" width="400px">
+   </div>
 
 2. **Sortear Amigo Secreto**:
    - Após adicionar amigos à lista, clique no botão "Sortear amigo" para gerar aleatoriamente um amigo secreto.
+
+   <div align="center">
+      <img src="https://github.com/user-attachments/assets/d1450c74-3e7b-43e2-9e35-14566026cd4c" width="400px">
+   </div>
 
 ## Como Executar
 

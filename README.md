@@ -16,14 +16,14 @@ O <strong>Amigo Secreto</strong> é uma aplicação simples em HTML, CSS e JavaS
    - Digite o nome de um amigo na caixa de texto e clique no botão "Adicionar" para adicionar o nome à lista de amigos.
      
    <div align="center">
-      <img src="https://github.com/user-attachments/assets/d1450c74-3e7b-43e2-9e35-14566026cd4c" width="400px">
+      <img src="https://github.com/user-attachments/assets/ee4be92b-520f-4c54-b473-6290dc38eae0" width="400px">
    </div>
 
 2. **Sortear Amigo Secreto**:
    - Após adicionar amigos à lista, clique no botão "Sortear amigo" para gerar aleatoriamente um amigo secreto.
 
    <div align="center">
-      <img src="https://github.com/user-attachments/assets/d1450c74-3e7b-43e2-9e35-14566026cd4c" width="400px">
+      <img src="https://github.com/user-attachments/assets/9bc65291-0b37-4ee7-901a-398458f938d7" width="400px">
    </div>
 
 ## Como Executar
@@ -77,4 +77,4 @@ O arquivo `app.js` contém a lógica de programação:
    - **Amigo sorteado**: João
 ```
 
-Esse é o texto todo convertido para Markdown. Se precisar de mais alguma coisa, é só avisar!
+

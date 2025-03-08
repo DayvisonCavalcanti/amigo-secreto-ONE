@@ -75,6 +75,5 @@ O arquivo `app.js` contém a lógica de programação:
 
 2. Ao clicar no botão "Sortear amigo", o sistema irá sortear aleatoriamente um nome da lista, por exemplo:
    - **Amigo sorteado**: João
-```
 
 
